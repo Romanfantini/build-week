@@ -1,0 +1,23 @@
+body {
+    background-image: url('./assets/bg.jpg');
+    font-family: inter;
+    color: aliceblue;
+}
+.logo{
+    width: 200px;
+    height: 100px;
+}
+
+
+.button input{
+    display: none;
+}
+
+
+.button  {
+    height: 100px;
+    width: 150px;
+    background-color: aqua;
+    border-radius: 15px;
+}
+
